@@ -1,0 +1,13 @@
+p{
+    text-align: left;
+    color: rgb(15, 13, 17);
+}
+Body
+{
+  margin : 5%;
+  border : 2px black;
+}
+h1, h3{
+    text-align: center;
+    color: #181718;
+}
